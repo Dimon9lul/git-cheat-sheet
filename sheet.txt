@@ -1,3 +1,4 @@
 Creating a git-repositry: git init
 Checking the git status: git status
 Adding to staging area: git add 
+Commiting the git: git commit
