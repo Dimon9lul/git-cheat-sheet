@@ -1,3 +1,8 @@
-Creating a gi status: git status
+Creating a git-repositry: git init
+Checking the git status: git status
 Adding to staging area: git add 
 Commiting the git: git commit
+View log: git log
+Returning to last version: git checkout "name-of-file"
+Adding a new branch: git branch
+Switching to a branch: git checkout "name-of-branch"
