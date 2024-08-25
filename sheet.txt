@@ -6,3 +6,6 @@ View log: git log
 Returning to last version: git checkout "name-of-file"
 Adding a new branch: git branch
 Switching to a branch: git checkout "name-of-branch"
+Adding a remote repositry: git remote add origin "repositry"
+(Only required for GitHub, setup the main branch: git branch -M main)
+Pushing head commit to the remote repositry: git push -u origin main
