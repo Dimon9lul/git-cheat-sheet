@@ -1,4 +1,6 @@
-Creating a git-repositry: git init
-Checking the git status: git status
+Creating a gi status: git status
 Adding to staging area: git add 
 Commiting the git: git commit
+And here I became tired, so I almost fell asleep on the keyboawdjkna kwdsadpökoadioasj fsfnmkasfjklhnejk
+j asdbaejkld bnawdhjop awjdjawd
+awiod awiojd oawhd iawhd awhd
